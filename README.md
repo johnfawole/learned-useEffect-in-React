@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## `useEffect`
 
-This hook adds style to a button when you hover over it. I'll be learning hooks for the next couple of days.
+This hook adds style to a button when you hover over it. I'll be learning hooks for the next couple of days. I learned this from [Queen](https://egghead.io/blog/use-react-s-usestate-and-useeffect-hooks).
 
 ## Available Scripts
 
