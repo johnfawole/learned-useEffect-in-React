@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## `useEffect`
+
+This hook adds style to a button when you hover over it. I'll be learning hooks for the next couple of days.
+
 ## Available Scripts
 
 In the project directory, you can run:
